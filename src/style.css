@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "MyFont";
+  src: url("./myfont.ttf") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: yellow;
+  font-family: "MyFont";
+  background: url("./dog.jpg");
+}
